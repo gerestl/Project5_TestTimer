@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\geres\AndroidStudioProjects\Project5_TestTimer\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b0539400ad1f7bcfc5836253e585f1d4130f80b6">
+        <dex dex="C:\Users\geres\AndroidStudioProjects\Project5_TestTimer\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_5d5588a5a9e4353d2d17dfecd7040352920b1df0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\geres\AndroidStudioProjects\Project5_TestTimer\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\geres\AndroidStudioProjects\Project5_TestTimer\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_4c6f0bbbf61bdd95bbb19069ffd1483b69484824\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\geres\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\geres\AndroidStudioProjects\Project5_TestTimer\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_90ca3de7ae371ffc9dfad2521f6e123afce4b645\classes.dex" />
+    </item>
+
+</items>
